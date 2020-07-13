@@ -1,2 +1,4 @@
 # Bicycle-Cards
-Cards with Bicycles pics, aiming to sell. Good for E-commerce websites.
+
+HTML/CSS Cards with intent to sell. 
+Good for E-commerce websites/mockups.
